@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#faf7f2"/>
+  <rect x="36" y="36" width="440" height="440" rx="88" fill="#ffffff" stroke="#e6dfd5" stroke-width="10"/>
+  <!-- 顶部日历装订环 -->
+  <rect x="148" y="88" width="28" height="56" rx="14" fill="#e07a5f"/>
+  <rect x="336" y="88" width="28" height="56" rx="14" fill="#e07a5f"/>
+  <!-- 日历顶部横条 -->
+  <rect x="96" y="116" width="320" height="56" rx="22" fill="#fdf0ec"/>
+  <!-- 中心手绘小太阳/扭蛋印记 -->
+  <circle cx="256" cy="288" r="66" fill="#e07a5f" fill-opacity="0.14" stroke="#e07a5f" stroke-width="16"/>
+  <path d="M256 186v22M256 368v22M154 288h22M336 288h22M184 216l16 16M312 344l16 16M328 216l-16 16M200 344l-16 16" stroke="#d4a017" stroke-width="14" stroke-linecap="round"/>
+  <path d="M232 292q24 22 48 0" fill="none" stroke="#2c2825" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="236" cy="268" r="7" fill="#2c2825"/>
+  <circle cx="276" cy="268" r="7" fill="#2c2825"/>
+</svg>

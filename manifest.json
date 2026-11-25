@@ -1,0 +1,27 @@
+{
+  "name": "拾光印记 · 日历手绘与扭蛋记录本",
+  "short_name": "拾光印记",
+  "description": "结合日历、拍照、手绘印章、双模式扭蛋机与可选 AI 复盘的本地优先个人记录本",
+  "version": "1.0.0",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f2",
+  "theme_color": "#faf7f2",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
