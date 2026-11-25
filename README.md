@@ -4,10 +4,12 @@
 
 **把日常的一点小感悟、一点小迷茫统统记录下来，保留瞬间最真实的感受；用双模式扭蛋机与过去的自己重逢，用自定义 AI 模板发掘你所未知的人格魅力。**
 
-[<https://img.shields.io/badge/version-v1.0-e07a5f?style=flat-square>]  
-[<https://img.shields.io/badge/privacy-100%25%20Local--First-52796f?style=flat-square>]  
-[<https://img.shields.io/badge/mobile-PWA%20可安装-d4a017?style=flat-square>]  
-[<https://img.shields.io/badge/build-纯原生零依赖-3d5a80?style=flat-square>]
+<p align="center">  
+  <img src="https://img.shields.io/badge/version-v1.0-e07a5f?style=flat-square" alt="Version" />  
+  <img src="https://img.shields.io/badge/privacy-100%25%20Local--First-52796f?style=flat-square" alt="Local-First" />  
+  <img src="https://img.shields.io/badge/mobile-PWA-d4a017?style=flat-square" alt="PWA" />  
+  <img src="https://img.shields.io/badge/build-Vanilla%20JS-3d5a80?style=flat-square" alt="Vanilla JS" />  
+</p>
 
 👉 **[立即在线体验（支持手机添加到主屏幕）](https://oyyyy-1.github.io/shiguang-record/)** 👈
 
@@ -97,6 +99,6 @@ shiguang-record/
 
 ---
 
-<div align="center">  
-  <sub>Made with warmth for everyday moments & late-night questions. ☀️</sub>  
+<div align="center">    
+  <sub>Made with warmth for everyday moments & late-night questions. ☀️</sub>    
 </div>
